@@ -34,13 +34,7 @@ T.Gode/
 ## Getting Started
 
 1. Open `index.html` in a browser, or use a local server:
-   ```bash
-   # Python
-   python -m http.server 8000
-   
-   # Node (npx)
-   npx serve
-   ```
+
 
 2. Add your images to `assets/images/` – see `assets/images/README.md` for the list of recommended images.
 
